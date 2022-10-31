@@ -1,7 +1,7 @@
  Hi there 👋, I’m Danayt
 - 👀 I’m interested in Data Engneering and Machine Learning 
 - 🌱 I’m currently learning about datas and how I can get insights from them Using Python and other tools 
-- 📫 Link to my [linkedin](https://www.linkedin.com/in/danayt-bulom/)
+- 📫 Look me up on [linkedin](https://www.linkedin.com/in/danayt-bulom/)
 
 
 
